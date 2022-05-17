@@ -1,3 +1,6 @@
-body{
+head, body{
     background-color: darkblue;
+}
+h1{
+    color: white;
 }
