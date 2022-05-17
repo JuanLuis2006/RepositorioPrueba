@@ -9,6 +9,7 @@
 </head>
 <body>
     <h1>Documento de prueba</h1>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus atque perspiciatis libero illo debitis qui sit recusandae consectetur laudantium accusantium tempora cupiditate adipisci expedita vitae aspernatur, iusto incidunt temporibus soluta.
 
     <script src="js/javascript.js"></script>
 </body>
